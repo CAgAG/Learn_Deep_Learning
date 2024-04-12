@@ -15,5 +15,5 @@
     - FPN
     - darknet19
   - transformer
-    - 源码(原地址https://github.com/hyunwoongko/transformer)添加注释
+    - 源码添加注释, 原地址:https://github.com/hyunwoongko/transformer
     - 相关笔记
