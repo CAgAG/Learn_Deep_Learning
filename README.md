@@ -1,4 +1,4 @@
-### 记录学习Pytorch深度学习框架基础的过程-主要是机器视觉
+### 记录学习Pytorch深度学习框架基础的过程-主要是计算机视觉
 
 - 包括
   - 相关的语法
@@ -14,3 +14,6 @@
     - densenet
     - FPN
     - darknet19
+  - transformer
+    - 源码(原地址https://github.com/hyunwoongko/transformer)添加注释
+    - 相关笔记
